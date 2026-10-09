@@ -1,0 +1,11 @@
+﻿node_modules/
+dist/
+dist-ssr/
+*.local
+.env*
+bin/
+obj/
+*.user
+.vscode/
+.idea/
+SideAI.WebAPI/appsettings.Development.json
